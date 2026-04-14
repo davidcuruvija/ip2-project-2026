@@ -7,12 +7,20 @@ Agglomerative (Ward),Full,3,0.1604,1.8891,324.6
 Agglomerative (Ward),PCA-70,3,0.2325,1.4068,504.6
 Agglomerative (Ward),PCA-80,3,0.1927,1.6316,416.0
 Agglomerative (Ward),Economic,3,0.2118,1.6467,608.0
+Agglomerative (Complete),Full,3,0.7278,0.3817,75.1
+Agglomerative (Complete),PCA-70,3,0.7693,0.268,106.1
+Agglomerative (Complete),PCA-80,3,0.7504,0.2869,93.0
+Agglomerative (Complete),Economic,3,0.4685,0.6183,86.9
+Agglomerative (Average),Full,3,0.6112,0.5541,78.2
+Agglomerative (Average),PCA-70,3,0.7693,0.268,106.1
+Agglomerative (Average),PCA-80,3,0.7504,0.2869,93.0
+Agglomerative (Average),Economic,3,0.6796,0.313,47.9
 DBSCAN,PCA-70,3,0.5612,0.623,62.3
 DBSCAN,PCA-80,7,0.0393,0.8889,29.1
 DBSCAN,Economic,1,,,
-CLARANS,PCA-70,3,0.2088,1.7118,476.6
-CLARANS,PCA-80,3,0.1851,1.5895,346.7
-CLARANS,Economic,3,0.2153,1.6814,611.0
+CLARANS,PCA-70,3,0.2273,1.6038,321.5
+CLARANS,PCA-80,3,0.1872,1.8191,403.2
+CLARANS,Economic,3,0.1988,1.6531,573.4
 BIRCH,Full,3,0.1604,1.8891,324.6
 BIRCH,PCA-70,3,0.2429,1.4122,540.3
 BIRCH,PCA-80,3,0.1965,1.6076,423.9
